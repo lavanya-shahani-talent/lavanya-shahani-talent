@@ -1,54 +1,68 @@
-
 # Hi, I'm Lavanya Shahani! 👋
-### Principal Technical Recruiter | Strategic Talent Advisor | AI & Engineering Talent
 
-I'm a talent acquisition professional with 10+ years of experience building high-performing teams and partnering with engineering, product, and executive leadership across high-growth technology organizations.
+### Talent Acquisition Strategist | AI & Recruiting Innovation | Technical Talent & Workforce Intelligence
 
-I specialize in identifying exceptional technical talent, developing strategic sourcing approaches, and helping organizations scale across competitive and emerging technology markets.
+I bring together **10+ years of talent acquisition experience, technical recruiting expertise, and a passion for AI-powered innovation.**
 
-My approach combines deep recruiting experience, market intelligence, data-driven decision-making, and an understanding of the technical skills and capabilities that drive successful engineering organizations.
+My work sits at the intersection of people, technology, data, and business strategy. I partner with technology leaders to build high-performing engineering organizations and explore how AI and automation can make recruiting smarter, faster, and more effective.
 
-### 🚀 What I Bring
+I'm particularly interested in building practical AI solutions, experimenting with automation, and using data to solve real-world talent acquisition challenges.
 
-- **Technical Recruiting:** Engineering, AI/ML, Infrastructure, SRE, Cybersecurity, and Product.
-- **Executive & Leadership Hiring:** Senior, Staff, Principal, Director, and specialized technical leadership.
-- **Global Talent Strategy:** Building and scaling engineering organizations across the US, Canada, India, and Mexico.
-- **Strategic Talent Advisory:** Workforce planning, market intelligence, compensation strategy, and hiring manager partnership.
-- **AI-Enabled Recruiting:** Building AI agents and automating recruiting workflows using Claude, ChatGPT, Lovable, and Superblocks.
-- **Data-Driven Recruiting:** Leveraging analytics, talent market insights, and recruiting funnel metrics to improve hiring outcomes.
+## 🚀 My Areas of Focus
 
-### 📊 Career Highlights
+- **AI & Recruiting Innovation:** AI agents, recruiting automation, workflow optimization, and AI-assisted talent acquisition.
+- **Technical Talent Strategy:** AI/ML, Software Engineering, Infrastructure, Cybersecurity, SRE, and Product.
+- **Talent Intelligence:** Market mapping, talent research, sourcing strategies, and competitive intelligence.
+- **People Analytics:** Recruiting funnel metrics, workforce insights, and data-driven decision-making.
+- **Global Workforce Strategy:** Engineering organization design and international team expansion.
+- **Technology & Automation:** Exploring practical applications of ChatGPT, Claude, Gemini, Lovable, and Superblocks.
 
-- Delivered **151 hires against a goal of 96** at Okta, exceeding hiring targets by 57%.
-- Helped scale global engineering organizations across four countries.
-- Supported India engineering expansion, including achieving 98% of the SRE hiring target ahead of plan.
-- Maintained **100% Hiring Manager NPS** at Okta.
+## 📊 Career Highlights
+
+- Delivered 151 hires against a goal of 96 at Okta (+57%).
+- Helped scale engineering organizations across the US, Canada, India, and Mexico.
+- Supported India engineering expansion, achieving 98% of the SRE hiring target ahead of plan.
+- Maintained 100% Hiring Manager NPS at Okta.
 - Exceeded diversity hiring goals by more than 132%.
-- Built and shared AI-powered recruiting solutions to improve workflows and team efficiency.
-- Partnered with engineering leaders to strengthen technical assessments and improve hiring decisions.
+- Built and shared AI-powered recruiting workflow solutions at Amplitude.
 
-### 🤖 Technology & Recruiting Tools
+## 🧪 My Project Portfolio
 
-**Recruiting Platforms:** LinkedIn Recruiter, Ashby, Greenhouse, GEM, HireEZ, Findem
+I'm building a collection of practical projects exploring the intersection of AI, recruiting, automation, and analytics.
 
-**Analytics:** Tableau, LinkedIn Insights
+Planned projects include:
+- AI Recruiting Assistant
+- Talent Sourcing & Market Intelligence Toolkit
+- Recruiting Analytics Dashboard
+- Technical Skills Intelligence
+- Global Workforce Planning
+- AI Productivity & Automation Toolkit
+
+Projects will include documentation, practical examples, and demonstrations using sample data.
+
+## 🛠️ Technologies & Tools
 
 **AI & Automation:** ChatGPT, Claude, Gemini, Lovable, Superblocks
 
-**Technical Talent Areas:** AI/ML, LLMs, Backend & Full Stack Engineering, Developer Experience, Infrastructure, SRE, Security
+**Analytics:** Tableau, Excel, Data Visualization
 
-### 💡 What I'm Interested In
+**Recruiting Technology:** Ashby, Greenhouse, LinkedIn Recruiter, GEM, HireEZ, Findem
 
-- The evolving AI and engineering talent landscape.
-- How companies build and scale exceptional engineering teams.
-- AI-powered recruiting and talent acquisition innovation.
-- Technical sourcing strategies and talent market intelligence.
-- The intersection of technology, people, and business strategy.
+**Learning & Development:** GitHub, Git, Markdown, AI-assisted prototyping
 
-### 🤝 Let's Connect
+## 💡 What I'm Exploring
 
-I enjoy connecting with engineering leaders, talent acquisition professionals, and people building innovative technology companies.
+- Practical applications of generative AI.
+- Building AI agents and intelligent workflows.
+- The future of technical recruiting.
+- Data-driven talent intelligence.
+- Automation and productivity.
+- The relationship between emerging technology and workforce strategy.
 
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/lavanyashahani)
+## 🤝 Let's Connect
 
-*Great technology starts with great people. My job is to help companies find them.*
+I'm always interested in connecting with people working across AI, technology, talent acquisition, and innovation.
+
+**LinkedIn:** [Lavanya Shahani](https://www.linkedin.com/in/lavanyashahani)
+
+*Connecting great talent, emerging technology, and innovative ideas.*
